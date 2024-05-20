@@ -1,0 +1,47 @@
+[
+  {
+    "name" : "Galaxy S23 Ultra",
+    "price" : "Rp 21.999.000",
+    "urlToImg" : "https://images.samsung.com/is/image/samsung/p6pim/id/2302/gallery/id-galaxy-s23-s918-sm-s918bliqxid-thumb-534862167?$240_240_PNG$",
+    "ram" : "12",
+    "storage" : "512",
+    "color" : "grey, black, white1, white2",
+    "size" : "173.1mm (6.8\" full rectangle) / 172.5mm (6.8\" rounded corners)",
+    "resolutionDisplay" : "3088 x 1440 (Quad HD+)",
+    "technology" : "Dynamic AMOLED 2X",
+    "rearCamera" : "F1.7 , F4.9 , F2.2 , F2.4",
+    "rearCameraResolution" : "200.0 MP + 10.0 MP + 12.0 MP + 10.0 MP",
+    "frontCamera" : "F2.2",
+    "frontCameraResolution" : "12.0 MP"
+  },
+  {
+    "name" : "Galaxy Z Flip4",
+    "price" : "Rp 13.999.000",
+    "urlToImg" : "https://images.samsung.com/is/image/samsung/p6pim/id/sm-f721blvaxid/gallery/id-galaxy-z-flip4-f721-sm-f721blvaxid-thumb-534236998?$240_240_PNG$",
+    "ram" : "8",
+    "storage" : "128",
+    "color" : "violet, black, blue, portafino",
+    "size" : "170.3mm (6.7\" full rectangle) / 166.4mm (6.6\" rounded corners)",
+    "resolutionDisplay" : "2640 x 1080 (FHD+)",
+    "technology" : "Dynamic AMOLED 2X",
+    "rearCamera" : "F1.8 , F2.2",
+    "rearCameraResolution" : "12.0 MP + 12.0 MP",
+    "frontCamera" : "F2.4",
+    "frontCameraResolution" : "10.0 MP"
+  },
+  {
+    "name" : "Galaxy A73 5G",
+    "price" : "Rp 4.899.000",
+    "urlToImg" : "https://images.samsung.com/is/image/samsung/p6pim/id/sm-a736bzwhxid/gallery/id-galaxy-a73-5g-a736-sm-a736bzwhxid-thumb-531910403?$240_240_PNG$https://images.samsung.com/is/image/samsung/p6pim/id/sm-a736bzwhxid/gallery/id-galaxy-a73-5g-a736-sm-a736bzwhxid-thumb-531910403?$240_240_PNG$",
+    "ram" : "8",
+    "storage" : "256",
+    "color" : "grey, black, white",
+    "size" : "169.5mm (6.7\" full rectangle) / 166.4mm (6.6\" rounded corners)",
+    "resolutionDisplay" : "1080 x 2400 (FHD+)",
+    "technology" : "Super AMOLED Plus",
+    "rearCamera" : "F1.8 , F2.2 , F2.4 , F2.4",
+    "rearCameraResolution" : "108.0 MP + 12.0 MP + 5.0 MP + 5.0 MP",
+    "frontCamera" : "F2.2",
+    "frontCameraResolution" : "32.0 MP"
+  }
+]
